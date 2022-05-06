@@ -35,6 +35,24 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Rachel Heyvaert",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Rachel Heyvaert",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Rachel Heyvaert",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
     }
   ]
 }
